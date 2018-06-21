@@ -1,3 +1,4 @@
 *.xlsx
 key/
 *.gitignore
+.gitignore
